@@ -30,4 +30,4 @@ Gauteng carries the highest regional cost at R 2,340,380. Total claims are drive
 <img width="745" height="394" alt="Car Insurance Claims Analysis" src="https://github.com/user-attachments/assets/fb3d7625-5e45-4d43-a9be-b8961bd316fa" />
 
 ### Files
-- `Insurance_Claims_Dashboard.pbix` - Interactive Power BI file
+- `Car Insurance Claims Analysis Dashboard.pbix` - Interactive Power BI file
